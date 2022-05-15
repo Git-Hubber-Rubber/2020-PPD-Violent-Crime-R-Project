@@ -1,0 +1,3 @@
+Summary of Project: Programmed by Raymond Almodovar, plots were created in R utilizing Philadelphia Police Department 2020 Crime Incident Data sourced from Open Data Philly. These plots are displayed on https://sites.google.com/view/finalproject-info250/home along, which also contains other relevant information and resources.
+
+This project contains the R Scripts, a PDF of finalized plots, and the dataset used.
